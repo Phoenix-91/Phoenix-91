@@ -1,8 +1,7 @@
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <h1 align="center">Hi 👋, I'm Paramveer</h1>
 <h3 align="center">A passionate Web Developer developer from India</h3>
-<img alingn="right" alt="coding" width="400" src="![1709674937953](https://github.com/user-attachments/assets/5be974ba-5a11-431b-b964-686eb7effde6)
 
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix-91&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix-91" /> </p>
 
