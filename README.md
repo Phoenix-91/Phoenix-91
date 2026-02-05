@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=PARAMVEER&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20Specialist&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <br>
 
