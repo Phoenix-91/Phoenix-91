@@ -21,15 +21,6 @@
 ### ⚔️ ABOUT THE DEVELOPER
 
 ```typescript
-lies {
-  Code Editor: Cursor;
-  Degugging: Claude;
-  Frontend: Hell;
-  learningPath: chatGPT;
-  expertise: Prompts;
-  collaboration: boolean;
-  portfolio: Fake;
-}
 
 const Paramveer: Developer = {
   name: "Paramveer",
