@@ -16,7 +16,6 @@
 
 ---
 
-<img align="right" alt="Dante Coding" width="400" src="https://media.tenor.com/rLm5IRrjOm0AAAAC/dante-devil-may-cry.gif">
 
 ### ⚔️ ABOUT THE DEVELOPER
 
