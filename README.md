@@ -6,7 +6,7 @@
 <br>
 
 <!-- Dante GIF -->
-<img src="https://media.tenor.com/n-bAPiLcNI4AAAAC/dante-devil-may-cry5.gif" width="500" />
+<img src="https://pin.it/63FH3x1yW" width="500" />
 
 <br>
 
@@ -21,21 +21,21 @@
 ### ⚔️ ABOUT THE DEVELOPER
 
 ```typescript
-interface Developer {
-  name: string;
-  location: string;
-  currentQuest: string;
-  learningPath: string[];
-  expertise: string;
+lies {
+  Code Editor: Cursor;
+  Degugging: Claude;
+  Frontend: Hell;
+  learningPath: chatGPT;
+  expertise: Prompts;
   collaboration: boolean;
-  portfolio: string;
+  portfolio: Fake;
 }
 
 const Paramveer: Developer = {
   name: "Paramveer",
   location: "India 🇮🇳",
-  currentQuest: "WebRTC Applications & Real-time Systems",
-  learningPath: ["Nest.JS", "Advanced Architecture", "System Design"],
+  currentQuest: "WebRTC, Python & Real-time Systems",
+  learningPath: ["Next.JS", "Advanced Architecture", "System Design"],
   expertise: "React Ecosystem & Modern JavaScript",
   collaboration: true,
   portfolio: "https://portfolio-phoeinix91.vercel.app"
