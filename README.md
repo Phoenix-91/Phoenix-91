@@ -33,7 +33,7 @@ const Paramveer: Developer = {
 
 <br>
 
-**🎯 CURRENT MISSION:** Building cutting-edge WebRTC applications  
+**🎯 CURRENT MISSION:** learning about System Design and More Backend
 **⚡ POWER MOVE:** React.js & Node.js development  
 **🔥 OPEN FOR:** Exciting web development collaborations  
 **💬 ASK ME ABOUT:** React, JavaScript, Web Development
