@@ -4,13 +4,6 @@
 
 <br>
 
-<!-- Dante GIF -->
-<img src="https://pin.it/63FH3x1yW" width="500" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Welcome+to+my+Code+Realm+%F0%9F%94%A5;React+%7C+Node.js+%7C;Currently+Mastering+Nest.JS;Let's+Create+Something+Epic!" alt="Typing SVG" />
-
 </div>
 
 ---
