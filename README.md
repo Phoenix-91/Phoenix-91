@@ -7,24 +7,6 @@
 
 ---
 
-
-### ⚔️ ABOUT THE DEVELOPER
-
-```typescript
-
-const Paramveer: Developer = {
-  name: "Paramveer",
-  location: "India 🇮🇳",
-  currentQuest: "WebRTC, Python & Real-time Systems",
-  learningPath: ["Next.JS", "Advanced Architecture", "System Design"],
-  expertise: "React Ecosystem & Modern JavaScript",
-  collaboration: true,
-  portfolio: "https://portfolio-phoeinix91.vercel.app"
-};
-```
-
-<br>
-
 **🎯 CURRENT MISSION:** learning about System Design and More Backend
 **⚡ POWER MOVE:** React.js & Node.js development  
 **🔥 OPEN FOR:** Exciting web development collaborations  
