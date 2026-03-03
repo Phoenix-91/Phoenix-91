@@ -160,14 +160,8 @@
 
 <img src="https://media.tenor.com/VxNkHo_N0wQAAAAC/dante-dmc.gif" width="400" />
 
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-![](https://github-profile-trophy.vercel.app/?username=Phoenix-91&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
 
 ---
-
 <div align="center">
 
 ## 🔥 TOP REPOSITORIES
@@ -180,7 +174,6 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ## 🌐 CONNECT & COLLABORATE
 
@@ -188,7 +181,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramveerpc2211@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23DC143C.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phoeinix91.vercel.app/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
