@@ -54,7 +54,7 @@ const paramveer = {
 
 ```
 ┌──────────────────┬─────────────────────────────────────────┐
-│  LEARNING        │  System Design · Distributed Systems    │
+│  LEARNING        │  Devops│
 │  BUILDING        │  Backend APIs that don't break at 3 AM  │
 │  OPEN FOR        │  Collabs on serious web products        │
 │  LOCATION        │  India                      │
@@ -63,21 +63,11 @@ const paramveer = {
 
 ---
 
-### 🗂 SELECTED WORK
-
-> **Medica** — Healthcare platform with doctor profiles & responsive design. No framework, pure craft. `HTML` `CSS`
->
-> **Ecommerce Store** — Full commerce engine in vanilla JS. Cart, state, checkout — zero dependencies. `JavaScript`
->
-> **Nexus\_AI** — AI-powered JS project exploring LLM integration in real workflows. `JavaScript` `AI`
->
 > **Portfolio** — [Live here](https://portfolio-phoeinix91.vercel.app/) — clean, fast, ships the point. `JavaScript` `Vercel`
 
 ---
 
-### 💬 THE TAKE
 
-> *Systems should feel inevitable, not clever. The best architecture is the one nobody notices because it just works. I'm not here to write impressive code — I'm here to write code that doesn't need to impress anyone because it simply holds.*
 
 ---
 
