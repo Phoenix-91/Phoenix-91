@@ -14,8 +14,7 @@ const paramveer = {
 };
 ```
 
-I don't build frontends for fun — I build the systems that keep them alive.
-Currently reverse-engineering how the internet actually works, one architectural pattern at a time.
+
 
 <br clear="both"/>
 
