@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=PARAMVEER&fontSize=60&fontColor=e6edf3&fontAlignY=35&desc=MERN STACK %20Developer%20%C2%B7%20,%20Designer%20%C2%B7%20C,%20IN&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=PARAMVEER&fontSize=60&fontColor=e6edf3&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20System%20Design%20%C2%B7%20C,%20IN&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <img align="right" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="300"/>
 
